@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "cloud-mcp": {
+      "type": "http",
+      "url": "https://ouvjmcueerqpbofqfhlh.supabase.co/functions/v1/mcp/mcp"
+    },
+    "ttt": {
+      "type": "http",
+      "url": "https://ouvjmcueerqpbofqfhlh.supabase.co/functions/v1/ttt"
+    }
+  }
+}
